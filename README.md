@@ -24,7 +24,7 @@ This repository contains various examples and implementations related to Retriev
 
 1. Clone the repository:
    ```bash
-   git clone [YOUR_REPOSITORY_URL]
+   git clone https://github.com/prathmeshmagar447/RAG_LEARN.git
    cd RAG-LEARN
    ```
 2. Create a virtual environment and install dependencies:
